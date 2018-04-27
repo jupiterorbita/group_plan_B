@@ -7,7 +7,7 @@
 #fullwrap{
     width: 100%;
     height: 100%;
-    background-color: rgb(36, 52, 52);
+    background-color: rgb(255, 255, 255);
 }
 
 div.wrapper{
@@ -20,9 +20,9 @@ div.wrapper{
 }
 
 div.header{
-    background-color: rgb(61, 218, 87);
+    background-color: navy;
     min-height: 50px;
-    width: 100%;
+    /* width: 100%; */
     /* margin-top: 150px; */
 }
 
@@ -108,15 +108,15 @@ h1{
     width: 41px;
     height: 41px;
     display: inline;
-    margin-left: 360px;
-    margin-top: 340px;
+    margin-left: 329px;
+    margin-top: 45px;
 }
 
 #pushpin2{
     width: 41px;
     height: 41px;
     display: inline;
-    margin-left: 341px;
-    margin-top: 56px;
+    margin-left: 360px;
+    margin-top: 339px;
 }
 

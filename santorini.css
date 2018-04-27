@@ -10,12 +10,12 @@ div.wrapper{
     margin: auto;
     width: 1000px;
     height: 800px;
-    background-color: rgb(196, 193, 193);
+    background-color: rgb(255, 255, 255);
     margin-top: 20px;
 }
 
 div.header{
-    background-color: rgb(61, 218, 87);
+    background-color: navy;
     min-height: 50px;
     width: 100%;
     /* margin-top: 150px; */
